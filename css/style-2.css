@@ -187,7 +187,7 @@ flex-wrap: wrap;
             transform: rotate(180deg);
         }
     }
-@media (max-width:1200px){
+@media (min-width:1000px){
     .wrapper {
         overflow: hidden;
         width: 100%;
